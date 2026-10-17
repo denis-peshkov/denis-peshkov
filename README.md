@@ -14,7 +14,7 @@
   [![Website](https://img.shields.io/badge/peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://peshkov.biz)
   [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/denis-peshkov)
   [![Company](https://img.shields.io/badge/GURU%20SOLUTIONS-111827?style=for-the-badge&logo=building&logoColor=white)](https://gurusolutions.co)
-  [![Location](https://img.shields.io/badge/Kyiv%2C%20UA-0057B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
+  [![Location](https://img.shields.io/badge/Location-Kyiv%2C%20UA%20%7C%20Timis%2C%20Romania-0057B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
 
 </div>
 
@@ -29,7 +29,7 @@ I design and ship production-grade .NET platforms: CQRS pipelines, identity, cac
 - Consulting on architecture, performance, and maintainable delivery  
 - Prefer code that is typed, testable, and boring in production  
 
-📍 **Kyiv, UA** · 🏢 **[GURU SOLUTIONS](https://gurusolutions.co)** · 🌐 **[peshkov.biz](https://peshkov.biz)**
+📍 **Kyiv, UA** · **Timiș, Romania** · 🏢 **[GURU SOLUTIONS](https://gurusolutions.co)** · 🌐 **[peshkov.biz](https://peshkov.biz)**
 
 ---
 
@@ -72,7 +72,9 @@ Libraries I maintain and publish on [NuGet](https://www.nuget.org/profiles/denis
 | [**Cross.Headers**](https://github.com/denis-peshkov/Cross.Headers) | Correlation, CSP, user context middleware | ![nuget](https://img.shields.io/nuget/dt/Cross.Headers?style=flat-square&label=&color=004880) |
 | [**Cross.Messaging**](https://github.com/denis-peshkov/Cross.Messaging) | Email / SMS / Telegram messaging helpers | ![nuget](https://img.shields.io/nuget/dt/Cross.Messaging?style=flat-square&label=&color=004880) |
 | [**Cross.DataFilter**](https://github.com/denis-peshkov/Cross.DataFilter) | Filtering, sorting, pagination for EF Core | ![nuget](https://img.shields.io/nuget/dt/Cross.DataFilter?style=flat-square&label=&color=004880) |
-| [**update-nuspec-action**](https://github.com/denis-peshkov/update-nuspec-action) | GitHub Action: sync `.nuspec` deps from `.csproj` | ![stars](https://img.shields.io/github/stars/denis-peshkov/update-nuspec-action?style=flat-square&label=&color=e3b341) |
+| [**update-nuspec-action**](https://github.com/denis-peshkov/update-nuspec-action) | GitHub Action: sync `.nuspec` deps from `.csproj` | ![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdenis-peshkov%2Fupdate-nuspec-action&query=%24.stargazers_count&label=stars&color=e3b341&style=flat-square) |
+| [**video-downloader**](https://github.com/denis-peshkov/video-downloader) | Desktop / tooling for downloading videos | ![private](https://img.shields.io/badge/private-111827?style=flat-square) |
+| [**duplicate-finder**](https://github.com/denis-peshkov/duplicate-finder) | Desktop app: find and remove duplicate files | ![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdenis-peshkov%2Fduplicate-finder&query=%24.stargazers_count&label=stars&color=e3b341&style=flat-square) |
 
 <details>
 <summary><strong>More from the Cross.* family</strong></summary>
@@ -118,7 +120,7 @@ Libraries I maintain and publish on [NuGet](https://www.nuget.org/profiles/denis
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denis-peshkov&bg_color=0D1117&color=79C0FF&line=512BD4&point=C9D1D9&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=denis-peshkov&bg_color=0D1117&color=79C0FF&line=512BD4&point=C9D1D9&area=true&hide_border=true&area_color=512BD4" alt="Contribution graph" width="100%" />
 </div>
 
 ---
