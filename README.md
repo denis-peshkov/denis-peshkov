@@ -31,7 +31,7 @@ I design and ship production-grade .NET platforms: CQRS pipelines, identity, cac
 - Consulting on architecture, performance, and maintainable delivery  
 - Prefer code that is typed, testable, and boring in production  
 
-📍 **Kyiv, Ukraine** · **Timis, Romania**
+📍 **Kyiv, UA** · **Timis, RO**
 
 ---
 
