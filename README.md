@@ -12,11 +12,12 @@
   **Software Architect · Architect Consultant · .NET ecosystem**
 
 <p align="center">
-  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/Website-peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-denis--peshkov-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
-  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/Company-GURU%20SOLUTIONS-111827?style=for-the-badge" alt="Company" /></a>
-  <a href="https://github.com/denis-peshkov"><img src="https://img.shields.io/badge/GitHub-denis--peshkov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/peshkov.biz-004880?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+  <a href="https://community.chocolatey.org/profiles/peshkov"><img src="https://img.shields.io/badge/Chocolatey-004880?style=for-the-badge&logo=chocolatey&logoColor=white" alt="Chocolatey" /></a>
+  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/GURU%20SOLUTIONS-004880?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company" /></a>
 </p>
+
 </div>
 
 ---
@@ -129,10 +130,10 @@ Libraries I maintain and publish on [NuGet](https://www.nuget.org/profiles/denis
 ### Connect
 
 <p align="center">
-  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/Website-peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-denis--peshkov-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
-  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/Company-GURU%20SOLUTIONS-111827?style=for-the-badge" alt="Company" /></a>
-  <a href="https://github.com/denis-peshkov"><img src="https://img.shields.io/badge/GitHub-denis--peshkov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/peshkov.biz-004880?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+  <a href="https://community.chocolatey.org/profiles/peshkov"><img src="https://img.shields.io/badge/Chocolatey-004880?style=for-the-badge&logo=chocolatey&logoColor=white" alt="Chocolatey" /></a>
+  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/GURU%20SOLUTIONS-004880?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Company" /></a>
 </p>
 
 <div align="center">
