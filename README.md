@@ -11,12 +11,12 @@
 
   **Software Architect · Architect Consultant · .NET ecosystem**
 
-  [![Website](https://img.shields.io/badge/peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://peshkov.biz)
-  [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/denis-peshkov)
-  [![Company](https://img.shields.io/badge/GURU%20SOLUTIONS-111827?style=for-the-badge&logo=building&logoColor=white)](https://gurusolutions.co)
-  [![Kyiv](https://img.shields.io/badge/Kyiv%2C%20UA-0057B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
-  [![Timis](https://img.shields.io/badge/Timis%2C%20Romania-002B7F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
-
+<p align="center">
+  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/Website-peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-denis--peshkov-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/Company-GURU%20SOLUTIONS-111827?style=for-the-badge" alt="Company" /></a>
+  <a href="https://github.com/denis-peshkov"><img src="https://img.shields.io/badge/GitHub-denis--peshkov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 </div>
 
 ---
@@ -30,7 +30,7 @@ I design and ship production-grade .NET platforms: CQRS pipelines, identity, cac
 - Consulting on architecture, performance, and maintainable delivery  
 - Prefer code that is typed, testable, and boring in production  
 
-📍 **Kyiv, UA** · **Timiș, Romania** · 🏢 **[GURU SOLUTIONS](https://gurusolutions.co)** · 🌐 **[peshkov.biz](https://peshkov.biz)**
+📍 **Kyiv, UA** · **Timis, Romania**
 
 ---
 
@@ -129,9 +129,9 @@ Libraries I maintain and publish on [NuGet](https://www.nuget.org/profiles/denis
 ### Connect
 
 <p align="center">
-  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/Website-peshkov.biz-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://peshkov.biz"><img src="https://img.shields.io/badge/Website-peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.nuget.org/profiles/denis-peshkov"><img src="https://img.shields.io/badge/NuGet-denis--peshkov-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
-  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/GURU%20SOLUTIONS-111827?style=for-the-badge" alt="GURU SOLUTIONS" /></a>
+  <a href="https://gurusolutions.co"><img src="https://img.shields.io/badge/Company-GURU%20SOLUTIONS-111827?style=for-the-badge" alt="Company" /></a>
   <a href="https://github.com/denis-peshkov"><img src="https://img.shields.io/badge/GitHub-denis--peshkov-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
