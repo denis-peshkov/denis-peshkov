@@ -14,7 +14,8 @@
   [![Website](https://img.shields.io/badge/peshkov.biz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://peshkov.biz)
   [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/denis-peshkov)
   [![Company](https://img.shields.io/badge/GURU%20SOLUTIONS-111827?style=for-the-badge&logo=building&logoColor=white)](https://gurusolutions.co)
-  [![Location](https://img.shields.io/badge/Location-Kyiv%2C%20UA%20%7C%20Timis%2C%20Romania-0057B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
+  [![Kyiv](https://img.shields.io/badge/Kyiv%2C%20UA-0057B7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
+  [![Timis](https://img.shields.io/badge/Timis%2C%20Romania-002B7F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/denis-peshkov)
 
 </div>
 
